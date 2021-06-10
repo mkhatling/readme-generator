@@ -1,22 +1,27 @@
-# We're testing things
+# We're testing things again!
 
 ## Description
-I'm checking to see if my code works by typing random things into these prompts. Let's see how it's working!
+This is another test to see if my readme generator is working. This time, I fixed the syntax and formatting of the table of contents and I'm seeing how it works
 
 ## Table of Contents
-Installation, Usage, License, Contribute, Tests, and Questions
+
+- [Installation](#installation)
+- [Usage](#usage)
+-[License](#license)
+-[Contribute](#contribute)
+-[Tests](#tests)
 
 ## Installation
 none
 
 ## Usage
-It's simple, really, just answer the prompts and let node do the rest!
+none
 
 ##Licenses 
-
+MIT License
 
 ## Contribute
-Do whatever you want
+none
 
 ## Tests
 none

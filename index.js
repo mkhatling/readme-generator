@@ -8,7 +8,12 @@ const generateReadme = (responses) =>
 ${responses.description}
 
 ## Table of Contents
-${responses.tableOfContents}
+
+- [Installation](#installation)
+- [Usage](#usage)
+-[License](#license)
+-[Contribute](#contribute)
+-[Tests](#tests)
 
 ## Installation
 ${responses.installation}
@@ -42,11 +47,6 @@ inquirer
         type: 'input',
         message: 'Give a brief description of you project',
         name: 'description',
-    },
-    {
-        type: 'input',
-        message: 'What are your table of contents sections?',
-        name: 'tableOfContents',
     },
     {
         type: 'input',

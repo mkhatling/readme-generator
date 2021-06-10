@@ -2,7 +2,35 @@ const inquirer = require("inquirer");
 const fs = require("fs");
 
 const generateReadme = (responses) =>
-`# ${responses.title}`;
+`# ${responses.title}
+
+## Description
+${responses.description}
+
+## Table of Contents
+${responses.tableOfContents}
+
+## Installation
+${responses.installation}
+
+## Usage
+${responses.usage}
+
+##Licenses 
+${responses.license}
+
+## Contribute
+${responses.contribute}
+
+## Tests
+${responses.tests}
+
+## Questions
+Here's my GitHub profile: github.com/${responses.githubUsername}
+If you have questions about this project, please email me at ${responses.email} 
+
+Thanks for checking out my project!
+`;
 
 inquirer
     .prompt([{

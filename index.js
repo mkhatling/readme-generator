@@ -31,7 +31,7 @@ ${responses.contribute}
 ${responses.tests}
 
 ## Questions
-Here's my GitHub profile: github.com/${responses.githubUsername}
+Here's my GitHub profile: https://github.com/${responses.githubUsername}
 If you have questions about this project, please email me at ${responses.email} 
 
 Thanks for checking out my project!

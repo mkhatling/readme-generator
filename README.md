@@ -1,7 +1,7 @@
-# Another test!
+# Testing testing
 
 ## Description
-Here's another test because I changed some things
+there's no description
 
 ## Table of Contents
 
@@ -15,19 +15,19 @@ Here's another test because I changed some things
 none
 
 ## Usage
-no thanks
+nope
 
 ## Licenses 
 MIT License
 
 ## Contribute
-none, do whatever the heck you want
+nada
 
 ## Tests
-nope
+zip
 
 ## Questions
-Here's my GitHub profile: github.com/mkhatling
+Here's my GitHub profile: https://github.com/mkhatling
 If you have questions about this project, please email me at mkhatling@gmail.com 
 
 Thanks for checking out my project!

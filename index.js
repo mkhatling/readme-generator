@@ -2,7 +2,7 @@ const inquirer = require("inquirer");
 const fs = require("fs");
 
 const generateReadme = (responses) =>
-`README template goes here`;
+`# ${responses.title}`;
 
 inquirer
     .prompt([{
@@ -17,7 +17,7 @@ inquirer
     },
     {
         type: 'input',
-        message: 'What are your table of content sections?',
+        message: 'What are your table of contents sections?',
         name: 'tableOfContents',
     },
     {
@@ -62,3 +62,10 @@ inquirer
         name: 'email',
     },
 ])
+.then((responses) => {
+    const readmeContent = generateReadme(responses);
+
+    fs.writeFile('README.md', readmeContent, (err) =>
+    err ? console.log(err) : console.log('Successfully created README!')
+    );
+})

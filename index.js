@@ -11,9 +11,9 @@ ${responses.description}
 
 - [Installation](#installation)
 - [Usage](#usage)
--[License](#license)
--[Contribute](#contribute)
--[Tests](#tests)
+- [License](#license)
+- [Contribute](#contribute)
+- [Tests](#tests)
 
 ## Installation
 ${responses.installation}
@@ -21,7 +21,7 @@ ${responses.installation}
 ## Usage
 ${responses.usage}
 
-##Licenses 
+## Licenses 
 ${responses.license}
 
 ## Contribute

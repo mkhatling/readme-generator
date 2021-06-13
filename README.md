@@ -1,7 +1,7 @@
-# Readme Generator
+# README generator
 
 ## Description
-This application is designed using Node.js to be able to create a professional readme file from the command line. Upon running the index.js file in Node, the user is asked a series of questions they can answer to fill out their readme for their project.
+I'm testing license badges
 
 ## Table of Contents
 
@@ -12,20 +12,20 @@ This application is designed using Node.js to be able to create a professional r
 - [Tests](#tests)
 
 ## Installation
-None
+none
 
 ## Usage
-Run index.js in your terminal using node. Questions will be generated where you can fill in the details of your project. Once you're finished, a readme file will be generated that you can add to your repository.
+none
 
 ## Licenses 
-MIT License
-
+GNU AGPLv3
+[![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
 
 ## Contribute
-[![Contributor Covenant](https://img.shields.io/badge/Contributor%20Covenant-2.0-4baaaa.svg)](code_of_conduct.md)
+none
 
 ## Tests
-No tests were run.
+none
 
 ## Questions
 Here's my GitHub profile: https://github.com/mkhatling

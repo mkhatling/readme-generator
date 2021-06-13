@@ -23,6 +23,7 @@ ${responses.usage}
 
 ## Licenses 
 ${responses.license}
+${responses.addLicense}
 
 ## Contribute
 ${responses.contribute}
@@ -45,7 +46,7 @@ inquirer
     },
     {
         type: 'input',
-        message: 'Give a brief description of you project',
+        message: 'Give a brief description of your project',
         name: 'description',
     },
     {

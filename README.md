@@ -1,7 +1,7 @@
-# README generator
+# README Generator
 
 ## Description
-I'm testing license badges
+This project was designed with node.js to creat a README file for your repository. When run in the terminal, the user will be provided with questions to answer for sections of a README. Once complete, a new README file will be created.
 
 ## Table of Contents
 
@@ -12,20 +12,20 @@ I'm testing license badges
 - [Tests](#tests)
 
 ## Installation
-none
+None
 
 ## Usage
-none
+Run the index.js file using node in the terminal. Answer the questions and then push the README. It will be updated in your repo.
 
 ## Licenses 
-GNU AGPLv3
-[![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
+MIT License
+
 
 ## Contribute
-none
+[![Contributor Covenant](https://img.shields.io/badge/Contributor%20Covenant-2.0-4baaaa.svg)](code_of_conduct.md)
 
 ## Tests
-none
+No tests were created or run
 
 ## Questions
 Here's my GitHub profile: https://github.com/mkhatling

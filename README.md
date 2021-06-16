@@ -16,6 +16,7 @@ None
 
 ## Usage
 Run the index.js file using node in the terminal. Answer the questions and then push the README. It will be updated in your repo.
+Walkthrough Video: https://drive.google.com/file/d/1zYfnEnHFX-f1-qfsYfS-Ne3yolDLZtLw/view
 
 ## Licenses 
 MIT License
